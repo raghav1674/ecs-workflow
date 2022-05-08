@@ -4,8 +4,8 @@
         "express": "4.18.1"
     },
     "scripts": {
-        "start" : "node index.js",
-        "dev": "nodemon index.js"
+        "start" : "node index.v2.js",
+        "dev": "nodemon index.v2.js"
     },
     "devDependencies": {
         "nodemon": "2.0.16"
